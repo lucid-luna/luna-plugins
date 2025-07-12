@@ -2,7 +2,7 @@
   <img src="https://github.com/lucid-luna/.github/blob/main/profile/assets/Feather.png" width="160" alt="LUNA Plugins Icon"/>
 </p>
 
-<h1 align="center">🔌 Luna Plugins</h1>
+<h1 align="center">Luna Plugins</h1>
 <p align="center">
   <b>자연어 기반 유틸리티 실행을 위한 확장 가능한 플러그인 시스템</b><br/>
   <i>Modular. Controllable. LLM-Driven.</i>
