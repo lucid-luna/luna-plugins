@@ -1,0 +1,22 @@
+{
+    "discord": {
+        "token": "YOUR_DISCORD_BOT_TOKEN",
+        "luna_api_url": "http://localhost:8000",
+        "announce_channel_id": "YOUR_CHANNEL_ID",    
+        "announce_on_start": true,
+        "auto_analyze": false,
+        "command_prefix": "!"
+    },
+    "backend": {
+        "luna_core_api_url": "http://localhost:8000/api",
+        "luna_models_path": "../../luna-models/models/",
+        "default_language": "ko",
+        "emotion_service": "emotion",
+        "intent_service": "intent",
+        "multi_intent_service": "multi_intent",
+        "vision_service": "vision"
+    },
+    "plugins": [
+        "discord"
+    ]
+}
